@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 448.59 330.95">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #646464;
+      }
+
+      .cls-2 {
+        fill: #904639;
+      }
+
+      .cls-3 {
+        fill: #3c3c3c;
+      }
+
+      .cls-4 {
+        filter: url(#drop-shadow-1);
+      }
+
+      .cls-5 {
+        fill: #a69b97;
+      }
+
+      .cls-6 {
+        fill: #3c5561;
+      }
+
+      .cls-7 {
+        fill: #a69d97;
+      }
+
+      .cls-8 {
+        fill: #90857f;
+      }
+
+      .cls-9 {
+        fill: #e6e6e6;
+      }
+    </style>
+    <filter id="drop-shadow-1" x="124.21" y="129.26" width="193" height="186" filterUnits="userSpaceOnUse">
+      <feOffset dx="9.53" dy="14.29"/>
+      <feGaussianBlur result="blur" stdDeviation="9.53"/>
+      <feFlood flood-color="#000" flood-opacity=".1"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Rug">
+    <rect class="cls-6" x="14.1" y="88.77" width="420.4" height="242.18" rx="44.76" ry="44.76"/>
+  </g>
+  <g id="Desk">
+    <g id="Chair" class="cls-4">
+      <rect class="cls-1" x="156.71" y="143.92" width="111.43" height="106.11" rx="7.64" ry="7.64"/>
+      <rect class="cls-3" x="143.38" y="230.37" width="134.72" height="41.03" rx="7.64" ry="7.64"/>
+    </g>
+    <rect id="Table" class="cls-2" width="448.59" height="184.95" rx="7.64" ry="7.64"/>
+    <g id="Monitor">
+      <rect class="cls-7" x="194" y="20.25" width="50.65" height="54.94" rx="5.37" ry="5.37"/>
+      <g>
+        <path class="cls-7" d="M218.5,34.23l-24.7,49.27c-1.34,2.67-4.54,3.72-7.14,2.35l-8.09-4.26c-2.61-1.37-3.63-4.65-2.3-7.32l24.7-49.27c1.34-2.67,4.54-3.72,7.14-2.35l8.09,4.26c2.61,1.37,3.63,4.65,2.3,7.32Z"/>
+        <path class="cls-7" d="M217.86,35.85l24.51,48.89c1.34,2.67,4.54,3.72,7.14,2.35l10.44-5.49c2.61-1.37,3.63-4.65,2.3-7.32l-24.51-48.89c-1.34-2.67-4.54-3.72-7.14-2.35l-10.44,5.49c-2.61,1.37-3.63,4.65-2.3,7.32Z"/>
+        <path class="cls-8" d="M180.06,67.45h78.53c2.34,0,4.25,1.9,4.25,4.25v21.32c0,2.96-2.41,5.37-5.37,5.37h-76.29c-2.96,0-5.37-2.41-5.37-5.37v-21.32c0-2.34,1.9-4.25,4.25-4.25Z"/>
+      </g>
+    </g>
+    <rect class="cls-5" x="164.47" y="117.59" width="104.09" height="36.18" rx="3.93" ry="3.93"/>
+  </g>
+  <g id="Layer_3" data-name="Layer 3">
+    <rect id="Paper" class="cls-9" x="60.18" y="31.33" width="61.41" height="82.65" rx="3.45" ry="3.45" transform="translate(11.72 -12.62) rotate(8.49)"/>
+    <rect id="Paper-2" data-name="Paper" class="cls-9" x="314.35" y="54.37" width="61.41" height="82.65" rx="1.13" ry="1.13" transform="translate(-5.66 23.47) rotate(-3.86)"/>
+  </g>
+</svg>
